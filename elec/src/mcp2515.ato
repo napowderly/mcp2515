@@ -1,2 +1,0 @@
-module Mcp2515:
-    signal gnd
